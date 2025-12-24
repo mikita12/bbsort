@@ -1,5 +1,5 @@
 # bbsort
-BubbleSort implementetion in assembly
+BubbleSort implementation in assembly
 
 ## Requirements
 
