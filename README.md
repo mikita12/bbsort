@@ -15,8 +15,6 @@ hexdump: For visualizing the sorted output data.
 
 The project includes a `Makefile` that automates the assembly, linking, execution, and output display process.
 
-### 1. Building
-
 Use the `all` target in the `Makefile` to compile, link, run the program, and display the result:
 
 ```bash
